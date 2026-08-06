@@ -9,10 +9,10 @@
 <img src="./lanyard.svg?v=1" alt="lanyard badge" width="200">
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-connect-0B93A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/sohan-bhanja-897647314"><img src="https://img.shields.io/badge/LinkedIn-connect-0B93A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-follow-0B93A6?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:sohanbhanja41@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-0B93A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-visit-0B93A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-visit-0B93A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Instagram"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Sohan-1070&style=for-the-badge&color=0E9F5C&label=PROFILE+VIEWS" alt="Profile views">
